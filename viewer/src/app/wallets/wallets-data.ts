@@ -521,7 +521,6 @@ export const walletData: Wallet[] = [
       "Present Proof v1.0"
     ],
     "dependencies": [
-      "paradym",
       "farmworker-wallet-os"
     ],
     "signingAlgorithms": [

@@ -30,14 +30,6 @@ export const dependencyData: Dependency[] = [
     "id": "farmworker-wallet-os"
   },
   {
-    "name": "Paradym",
-    "description": "Create and manage your digital identity infrastructure exactly how you want it with the Paradym API. Paradym provides hosted infrastructure and straightforward API endpoints.",
-    "url": "https://paradym.id",
-    "license": "Commercial",
-    "language": "REST",
-    "id": "paradym"
-  },
-  {
     "name": "SD-JWT-JS",
     "url": "https://github.com/openwallet-foundation-labs/sd-jwt-js",
     "description": "A TypeScript implementation of the Selective Disclosure JWT (SD-JWT) spec.",
